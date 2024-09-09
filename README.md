@@ -1,2 +1,2 @@
 # MyRepo
-Git repo
+Git repository
